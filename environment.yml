@@ -1,0 +1,11 @@
+channels:
+  - damianavila82
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - rise
+  - metakernel
+  - ipywidgets
+  - 
