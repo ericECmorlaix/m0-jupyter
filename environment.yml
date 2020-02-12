@@ -6,6 +6,3 @@ dependencies:
   - numpy
   - matplotlib
   - rise
-  - metakernel
-  - ipywidgets
-  - 
